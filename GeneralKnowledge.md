@@ -14,8 +14,14 @@ Define and describe the four values of Agile as stated in the Agile Manifesto
 Scrum Foundations
 ------------------
 *Empirical and defined Processes*
-Define and describe the two terms, including a description of inspect, adapt and transparency as the three legs of an empirical process. 
-Describe how the Scrum Framework is based on the empirical process.
+> Define and describe the two terms, including a description of inspect, adapt and transparency as the three legs of an empirical process. 
+
+When using an empirical process, team members inspect and adapt during the development effort. Rather than assuming that a list of activities can beknown in advance, it is assumed with an empirical process that things will be discovered and changes made.
+
+> Describe how the Scrum Framework is based on the empirical process.
+
+Scrum is an iterative and incremental Process. In an iterative process, a team revisits previously worked-on parts of the system.
+
 
 ### Empirical
 
@@ -34,11 +40,17 @@ Scrum is based in empirical process control theory. As the degree of complexity 
 - Long Sprint have less process overhead but also less response to change
 
 ### The Significance of Done
-  Define the role of *done*, and  describe the importance of having a potentially shippable product increment at the end of each sprint in order to optimize business value, mitigate risk and maximize transparency.
+> Define the role of *done*
+
+Done is the outcome of a feature. The team has to define what does it mean for a feature to be *done*. Tested ? Deployed ? Code Reviewed ?
+
+> Describe the importance of having a potentially shippable product increment at the end of each sprint in order to optimize business value, mitigate risk and maximize transparency.
+
+
 
 ### The Five Scrum Values
 
-Identify the five Scrum Values, and use examples of how Scrum Practices Support the application of each  
+> Identify the five Scrum Values, and use examples of how Scrum Practices Support the application of each  
 
 - **Focus** - “Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.” – Alexander Graham Bell
   
