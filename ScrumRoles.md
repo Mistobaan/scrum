@@ -59,3 +59,33 @@
 ### Describe the importance of	having a single person playing this	role.
 ## Organizational Respect
 > Identify that the Product Owner should	be	given the authority to make the	necessary decisions to	achieve the ROI on the Product, as described in	the Scrum	Framework.
+
+# The Team
+## Responsibilities
+### Self-Organizing	and Whole Team Accountability
+> Analyze the reasons and	implications	of self-organization	and whole Team accountability in Scrum, and identify the reasons to not have an	appointed	Team leader
+
+### Delivers a Product Increment
+> Describe the importance of	creating a potentially shippable product increment in	every Sprint, and what it means for the Team composition and collaboration.
+
+### Manages the Sprint Backlog and Sprint Progress Tracking
+> Describe how the Team creates and maintains the Sprint Backlog and tracks Sprint progress.
+
+### Participates in Sprint Meetings
+> Identify the role the Team plays	in Sprint Planning	meeting, Sprint Review meeting, Daily	Scrum meeting, and Sprint Retrospective. Describe how the team interacts and contributes to reach each meeting goal.
+
+## Authority
+> Describe the authority given to the Team and the balance with the responsibility the Team is accountable for. Identify the scope in	which the Team authority is valid.
+
+## Teamwork
+> Describe how building a highly productive Team takes time and patience and that the Team will need to be guided through this	journey by the ScrumMaster. Identify why it is more important that the Team succeeds than any individual member of	the	Team.
+
+## Team Characteristics
+> Identify the desirable characteristics of	the Team in	terms of	its size, proximity, skills, and time availability
+
+## Impact on Traditional Roles
+### No Project Manager
+> Analyze why the project manager role is not present in	the Scrum Framework.
+
+###	 Specialists
+> Describe how highly	specialized roles like	business analyst and software architect are	likely to	change in Scrum.
